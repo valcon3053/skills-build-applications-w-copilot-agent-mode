@@ -26,7 +26,7 @@ SECRET_KEY = "django-insecure-l)xmy07t#i)j&c=m2kv$)0ml*_mp^v+o+nkm0+jt6*@(jll6d+
 DEBUG = True
 
 # Allow all hosts
-ALLOWED_HOSTS = ['*']
+ALLOWED_HOSTS = ['redesigned-lamp-q7vrxjj9gjwfg95-8000.app.github.dev', 'localhost']
 
 
 # Application definition
